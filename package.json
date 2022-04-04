@@ -1,0 +1,13 @@
+{
+  "name": "kyber-pools",
+  "version": "1.0.0",
+  "description": "KyberSwap Pools Info",
+  "main": "index.js",
+  "author": "viet-nv",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.11.0",
+    "node-fetch": "^3.2.3"
+  }
+}
